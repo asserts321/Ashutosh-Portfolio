@@ -48,7 +48,7 @@ I am a **Data Analyst** with over 3.5 years of experience specializing in Python
 
 <div class="card-container">
   <div class="card">
-    <h3><a href="#">Salifort Motors Employee Retention</a></h3>
+    <h3><a href="https://github.com/asserts321/Ashutosh_projects/blob/b6a6fab12d0cbf08c03d1536d1c6fcb1b179c643/Salifort%20motors/Emoyee%20retention%20project/Salifort%20motors%20project.ipynb">Salifort Motors Employee Retention</a></h3>
     <p><strong>Tools:</strong> Python, Machine Learning</p>
     <ul>
       <li>Developed machine learning models to predict employee turnover and provided actionable insights.</li>
