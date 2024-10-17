@@ -91,4 +91,4 @@ You can download a copy of my resume [here](Ashutosh_resume.pdf).
 ## Contact
 - **Email**: [singh.ashu636@gmail.com](mailto:singh.ashu636@gmail.com)
 - **LinkedIn**: [Ashutosh Singh](https://www.linkedin.com/in/ashutosh-singh-745779188)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
+- **GitHub**: [Your GitHub](https://github.com/asserts321)
