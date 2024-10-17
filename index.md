@@ -3,14 +3,9 @@ layout: default
 title: Ashutosh Singh's Portfolio
 ---
 
-# Welcome to My Portfolio
+# About Me
 
-I am a **Data Analyst** with over 3.5 years of experience specializing in Python, SQL, and machine learning. I help organizations make data-driven decisions and solve complex problems with actionable insights.
-
----
-
-## About Me
-I am a detail-oriented Data Analyst with experience in developing data-driven strategies to enhance business decision-making. My key skills include statistical analysis, machine learning, and data visualization using tools like Python, SQL, and Power BI.
+I am a **Data Analyst** with over 3.5 years of experience specializing in Python, SQL, and machine learning. My expertise lies in analyzing complex datasets and developing data-driven strategies that enhance business decision-making. I am passionate about telling compelling data stories, optimizing processes, and solving problems with actionable insights.
 
 ---
 
@@ -53,19 +48,29 @@ I am a detail-oriented Data Analyst with experience in developing data-driven st
 
 <div class="card-container">
   <div class="card">
-    <h3>Salifort Motors Employee Retention</h3>
+    <h3><a href="#">Salifort Motors Employee Retention</a></h3>
     <p><strong>Tools:</strong> Python, Machine Learning</p>
     <ul>
-      <li>Developed machine learning models to predict employee turnover.</li>
+      <li>Developed machine learning models to predict employee turnover and provided actionable insights.</li>
     </ul>
   </div>
 
   <div class="card">
-    <h3>World Happiness Index Visualization</h3>
+    <h3><a href="#">World Happiness Index Visualization</a></h3>
     <p><strong>Tools:</strong> Tableau</p>
     <ul>
       <li>Created a Tableau dashboard to visualize happiness index trends.</li>
     </ul>
+  </div>
+
+  <div class="card">
+    <h3><a href="#">Project Name (Coming Soon)</a></h3>
+    <p>Details about this project will be added soon.</p>
+  </div>
+
+  <div class="card">
+    <h3><a href="#">Another Project (Coming Soon)</a></h3>
+    <p>Details about this project will be added soon.</p>
   </div>
 </div>
 
