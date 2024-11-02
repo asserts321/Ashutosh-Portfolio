@@ -56,10 +56,10 @@ I am a **Data Analyst** with over 3.5 years of experience specializing in Python
   </div>
 
   <div class="card">
-    <h3><a href="#">World Happiness Index Visualization</a></h3>
-    <p><strong>Tools:</strong> Tableau</p>
+    <h3><a href="#">Movie Recommendation System</a></h3>
+    <p><strong>Tools:</strong> Python, Content-Based Filtering, Count Vectorizer, Streamlit</p>
     <ul>
-      <li>Created a Tableau dashboard to visualize happiness index trends.</li>
+      <li>Built a movie recommender system which utilizes content-based filtering approach, employing cosine similarity and Count Vectorizer for feature extraction to recommend similar titles based on genres, keywords, and cast details. This interactive Streamlit app utilizes the TMDb API to dynamically fetch and display movie posters and recommendations.</li>
     </ul>
   </div>
 
