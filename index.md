@@ -55,11 +55,19 @@ I am a **Data Analyst** with over 3.5 years of experience specializing in Python
     </ul>
   </div>
 
+<div class="card-container">
   <div class="card">
-    <h3><a href="https://email-sms-spam-classification-x6w0.onrender.com/">Email-SMS Spam Classifier</a></h3>
-    <p>DThis project is an SMS Spam Detection System that leverages natural language processing (NLP) techniques to preprocess and tokenize text messages, combined with a machine learning model to accurately classify messages as spam or legitimate (ham). It ensures reliable filtering for enhanced communication efficiency.</p>
+    <h3><a href="https://email-sms-spam-classification-x6w0.onrender.com/">Email-SMS Spam Detection System</a></h3>
+    <p><strong>Tools:</strong> Python, NLTK, Scikit-learn, Streamlit</p>
+    <ul>
+      <li>Implemented a classification model to identify spam or legitimate (ham) messages.</li>
+      <li>Utilized NLTK for text preprocessing and tokenization.</li>
+      <li>Applied machine learning algorithms like Naive Bayes for message classification.</li>
+      <li>Built an interactive Streamlit application for user-friendly testing and visualization.</li>
+    </ul>
   </div>
-  
+</div>
+
   <div class="card">
     <h3>Movie Recommendation System</h3>
     <p><strong>Tools:</strong> Python, Content-Based Filtering, Count Vectorizer, Streamlit</p>
