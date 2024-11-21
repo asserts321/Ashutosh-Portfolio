@@ -86,7 +86,7 @@ I am a **Data Analyst** with over 3.5 years of experience specializing in Python
 ---
 
 ## Download My Resume
-You can download a copy of my resume [here](Ashutosh_resume.pdf).
+You can download a copy of my resume [here](Ashutosh Resume.pdf).
 
 ---
 
