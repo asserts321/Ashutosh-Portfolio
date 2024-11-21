@@ -56,17 +56,19 @@ I am a **Data Analyst** with over 3.5 years of experience specializing in Python
   </div>
 
   <div class="card">
-    <h3><a href="#">Movie Recommendation System</a></h3>
+    <h3><a href="https://email-sms-spam-classification-x6w0.onrender.com/">Email-SMS Spam Classifier</a></h3>
+    <p>DThis project is an SMS Spam Detection System that leverages natural language processing (NLP) techniques to preprocess and tokenize text messages, combined with a machine learning model to accurately classify messages as spam or legitimate (ham). It ensures reliable filtering for enhanced communication efficiency.</p>
+  </div>
+  
+  <div class="card">
+    <h3>Movie Recommendation System</h3>
     <p><strong>Tools:</strong> Python, Content-Based Filtering, Count Vectorizer, Streamlit</p>
     <ul>
       <li>Built a movie recommender system which utilizes content-based filtering approach, employing cosine similarity and Count Vectorizer for feature extraction to recommend similar titles based on genres, keywords, and cast details. This interactive Streamlit app utilizes the TMDb API to dynamically fetch and display movie posters and recommendations.</li>
     </ul>
   </div>
 
-  <div class="card">
-    <h3><a href="#">Project Name (Coming Soon)</a></h3>
-    <p>Details about this project will be added soon.</p>
-  </div>
+
 
   <div class="card">
     <h3><a href="#">Another Project (Coming Soon)</a></h3>
